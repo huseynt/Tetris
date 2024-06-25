@@ -38,6 +38,8 @@
         border: 1px solid rgba(255, 255, 255, 0.127);
         background-color: black;
         display: none;
+        border-radius: 18px;
+        box-shadow: 0 0 30px 5px #ffffff0c;
 
         @include tablet {
             display: none !important;
